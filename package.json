@@ -1,8 +1,8 @@
 {
-  "name": "notus-nextjs",
-  "homepage": "https://demos.creative-tim.com/notus-nextjs",
+  "name": "rozopan",
+  "homepage": "https://rozopan.shizu.dev",
   "version": "1.1.0",
-  "description": "Notus NextJS - A free Tailwind CSS, NextJS and React Ui Kit and Admin by Creative Tim.",
+  "description": "ロゾパン株式会社 - システム開発会社",
   "repository": "https://github.com/creativetimofficial/notus-nextjs",
   "license": "MIT",
   "dependencies": {

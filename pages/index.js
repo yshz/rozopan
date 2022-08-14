@@ -14,38 +14,20 @@ export default function Index() {
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
             <div className="pt-32 sm:pt-0">
               <h2 className="font-semibold text-4xl text-blueGray-600">
-                Notus NextJS - A beautiful extension for Tailwind CSS.
+                ロゾパン株式会社 - システム開発会社
               </h2>
               <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                Notus NextJS is Free and Open Source. It does not change any of
-                the CSS from{" "}
+                ロゾパン株式会社は{" "}
                 <a
-                  href="https://tailwindcss.com/?ref=creativetim"
+                  href="https://rubyonrails.org/"
                   className="text-blueGray-600"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Tailwind CSS
+                  Ruby on Rails
                 </a>
-                . It features multiple HTML elements and it comes with dynamic
-                components for ReactJS, Vue and Angular.
+                {" "}を利用した開発支援を行っております。
               </p>
-              <div className="mt-12">
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/overview/notus?ref=nnjs-index"
-                  target="_blank"
-                  className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-400 active:bg-blueGray-500 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
-                >
-                  Get started
-                </a>
-                <a
-                  href="https://github.com/creativetimofficial/notus-nextjs?ref=nnjs-index"
-                  className="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
-                  target="_blank"
-                >
-                  Github Star
-                </a>
-              </div>
             </div>
           </div>
         </div>
@@ -56,7 +38,7 @@ export default function Index() {
         />
       </section>
 
-      <section className="mt-48 md:mt-40 pb-40 relative bg-blueGray-100">
+      {/* <section className="mt-48 md:mt-40 pb-40 relative bg-blueGray-100">
         <div
           className="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20"
           style={{ transform: "translateZ(0)" }}
@@ -165,7 +147,7 @@ export default function Index() {
                       </h6>
                       <p className="mb-4 text-blueGray-500">
                         Built by developers for developers. You will love how
-                        easy is to to work with Notus NextJS.
+                        easy is to to work with ロゾパン株式会社.
                       </p>
                     </div>
                   </div>
@@ -496,15 +478,15 @@ export default function Index() {
           <div className="w-full md:w-6/12 px-12 md:px-4">
             <h2 className="font-semibold text-4xl">Beautiful Example Pages</h2>
             <p className="text-lg leading-relaxed mt-4 mb-4 text-blueGray-500">
-              Notus NextJS is a completly new product built using our past
+              ロゾパン株式会社 is a completly new product built using our past
               experience in web templates. Take the examples we made for you and
               start playing with them.
             </p>
           </div>
         </div>
-      </section>
+      </section> */}
 
-      <section className="block relative z-1 bg-blueGray-600">
+      {/* <section className="block relative z-1 bg-blueGray-600">
         <div className="container mx-auto">
           <div className="justify-center flex flex-wrap">
             <div className="w-full lg:w-12/12 px-4  -mt-24">
@@ -557,7 +539,7 @@ export default function Index() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section className="py-20 bg-blueGray-600 overflow-hidden">
         <div className="container mx-auto pb-64">
@@ -567,32 +549,10 @@ export default function Index() {
                 <i className="fas fa-code-branch text-xl"></i>
               </div>
               <h3 className="text-3xl mb-2 font-semibold leading-normal text-white">
-                Open Source
+                代表プロフィール
               </h3>
-              <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-400">
-                Since{" "}
-                <a
-                  href="https://tailwindcss.com/?ref=creative"
-                  className="text-blueGray-300"
-                  target="_blank"
-                >
-                  Tailwind CSS
-                </a>{" "}
-                is an open source project we wanted to continue this movement
-                too. You can give this version a try to feel the design and also
-                test the quality of the code!
-              </p>
-              <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-400">
-                Get it free on Github and please help us spread the news with a
-                Star!
-              </p>
-              <a
-                href="https://github.com/creativetimofficial/notus-nextjs?ref=nnjs-index"
-                target="_blank"
-                className="github-star mt-4 inline-block text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
-              >
-                Github Star
-              </a>
+              <h4 className="text-xl font-semibold text-white mb-2">志津 裕貴(しづ ゆうき)</h4>
+              <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-400">代表取締役社長 兼 エンジニア</p>
             </div>
 
             <div className="w-full md:w-4/12 px-4 mr-auto ml-auto mt-32 relative">
@@ -625,38 +585,38 @@ export default function Index() {
 
         <div className="container mx-auto">
           <div className="flex flex-wrap justify-center bg-white shadow-xl rounded-lg -mt-64 py-16 px-12 relative z-10">
-            <div className="w-full text-center lg:w-8/12">
-              <p className="text-4xl text-center">
-                <span role="img" aria-label="love">
-                  😍
-                </span>
-              </p>
-              <h3 className="font-semibold text-3xl">
-                Do you love this Starter Kit?
+            <div className="lg:w-8/12">
+              <h3 className="font-semibold text-3xl text-center">
+                企業情報
               </h3>
-              <p className="text-blueGray-500 text-lg leading-relaxed mt-4 mb-4">
-                Cause if you do, it can be yours now. Hit the buttons below to
-                navigate to get the Free version for your next project. Build a
-                new web app or give an old project a new look!
-              </p>
-              <div className="sm:block flex flex-col mt-10">
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/overview/notus?ref=nnjs-index"
-                  target="_blank"
-                  className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-blueGray-400 active:bg-blueGray-500 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
-                >
-                  Get started
-                </a>
-                <a
-                  href="https://github.com/creativetimofficial/notus-nextjs?ref=nnjs-index"
-                  target="_blank"
-                  className="github-star sm:ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
-                >
-                  <i className="fab fa-github text-lg mr-1"></i>
-                  <span>Help With a Star</span>
-                </a>
-              </div>
-              <div className="text-center mt-16"></div>
+              <table className="w-full mt-8">
+                <tbody>
+                  <tr>
+                    <th className="text-left">会社名</th>
+                    <td>ロゾパン株式会社</td>
+                  </tr>
+                  <tr>
+                    <th className="text-left">所在地</th>
+                    <td>東京都渋谷区桜丘町23番17号シティコート桜丘408</td>
+                  </tr>
+                  <tr>
+                    <th className="text-left">設立年月日</th>
+                    <td>2020年12月9日</td>
+                  </tr>
+                  <tr>
+                    <th className="text-left">資本金</th>
+                    <td>100万円</td>
+                  </tr>
+                  <tr>
+                    <th className="text-left">代表者</th>
+                    <td>志津 裕貴</td>
+                  </tr>
+                  <tr>
+                    <th className="text-left">事業内容</th>
+                    <td>ソフトウェアの企画、設計、開発、保守及びこれらに関するコンサルティング業務</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </div>
