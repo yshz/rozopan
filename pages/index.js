@@ -597,7 +597,7 @@ export default function Index() {
                   </tr>
                   <tr>
                     <th className="text-left">所在地</th>
-                    <td>東京都渋谷区桜丘町23番17号シティコート桜丘408</td>
+                    <td>東京都渋谷区神宮前六丁目23番4号 桑野ビル2階</td>
                   </tr>
                   <tr>
                     <th className="text-left">設立年月日</th>
